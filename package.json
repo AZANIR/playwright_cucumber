@@ -39,9 +39,9 @@
     "navigation": "cucumber-js --tags @navigation -f json:report/report.json",
     "generate": "node report.js"
   },
-  "homepage": "https://github.com/YosypVoloshchuk/wework_playwright#readme",
+  "homepage": "https://github.com/AZANIR/playwright_cucumber#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YosypVoloshchuk/wework_playwright.git"
+    "url": "git+https://github.com/AZANIR/playwright_cucumber.git"
   }
 }
